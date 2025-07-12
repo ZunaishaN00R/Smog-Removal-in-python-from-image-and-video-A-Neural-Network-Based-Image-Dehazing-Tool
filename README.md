@@ -34,8 +34,8 @@ A deep learning-based image dehazing system that automatically removes atmospher
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/haze-removal-system.git
-cd haze-removal-system
+git clone https://github.com/ZunaishaN00R/Smog-Removal-in-python-from-image-and-video-A-Neural-Network-Based-Image-Dehazing-Tool.git
+cd Smog-Removal-in-python-from-image-and-video-A-Neural-Network-Based-Image-Dehazing-Tool
 
 # Install required packages
 pip install tensorflow opencv-python numpy matplotlib scikit-learn
